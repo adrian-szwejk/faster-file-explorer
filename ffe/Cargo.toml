@@ -6,3 +6,10 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+glob = "0.3.1"
+walkdir = "2.3.3"
+# path = "0.8.2"
+# time = "0.3.23"
+directories = "5.0.1"
+
+

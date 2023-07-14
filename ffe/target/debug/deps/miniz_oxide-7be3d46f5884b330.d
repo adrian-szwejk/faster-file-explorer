@@ -1,0 +1,10 @@
+C:\Users\szwej\rust_projects\faster-file-explorer\ffe\target\debug\deps\miniz_oxide-7be3d46f5884b330.rmeta: C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\lib.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\mod.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\core.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\output_buffer.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\stream.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\shared.rs
+
+C:\Users\szwej\rust_projects\faster-file-explorer\ffe\target\debug\deps\miniz_oxide-7be3d46f5884b330.d: C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\lib.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\mod.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\core.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\output_buffer.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\stream.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\shared.rs
+
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\lib.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\mod.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\core.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\output_buffer.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\inflate\stream.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\miniz_oxide-0.7.1\src\shared.rs:

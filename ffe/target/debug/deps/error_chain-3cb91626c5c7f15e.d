@@ -1,0 +1,10 @@
+C:\Users\szwej\rust_projects\faster-file-explorer\ffe\target\debug\deps\error_chain-3cb91626c5c7f15e.rmeta: C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\lib.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\impl_error_chain_kind.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\error_chain.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\quick_main.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\backtrace.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\example_generated.rs
+
+C:\Users\szwej\rust_projects\faster-file-explorer\ffe\target\debug\deps\error_chain-3cb91626c5c7f15e.d: C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\lib.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\impl_error_chain_kind.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\error_chain.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\quick_main.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\backtrace.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\example_generated.rs
+
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\lib.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\impl_error_chain_kind.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\error_chain.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\quick_main.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\backtrace.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\error-chain-0.12.4\src\example_generated.rs:

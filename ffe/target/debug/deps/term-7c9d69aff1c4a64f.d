@@ -1,0 +1,11 @@
+C:\Users\szwej\rust_projects\faster-file-explorer\ffe\target\debug\deps\term-7c9d69aff1c4a64f.rmeta: C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\lib.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\mod.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\searcher.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\compiled.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\names.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parm.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\win.rs
+
+C:\Users\szwej\rust_projects\faster-file-explorer\ffe\target\debug\deps\term-7c9d69aff1c4a64f.d: C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\lib.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\mod.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\searcher.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\compiled.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\names.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parm.rs C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\win.rs
+
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\lib.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\mod.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\searcher.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\compiled.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\names.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parm.rs:
+C:\Users\szwej\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\win.rs:
